@@ -1,0 +1,12 @@
+{
+  "total_raw_articles": 198771,
+  "total_classified_articles": 198771,
+  "classification_rate_pct": 100.0,
+  "total_covers_processed": 11331,
+  "total_faces_detected": 47409,
+  "faces_high_confidence": 47409,
+  "faces_low_confidence": 0,
+  "high_conf_rate_pct": 100.0,
+  "unique_feminine_entities": 6063,
+  "unique_masculine_entities": 36172
+}
